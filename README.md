@@ -16,7 +16,7 @@
 | :--- | :--- | :--- |
 | **24520949** | Khương Thành Lên | [ThanhLen-IT](https://github.com/ThanhLen-IT) |
 | **24521135** | Trần Kim Ngân | [KylnaCBSCRT-CSE](https://github.com/KylnaCBSCRT-CSE) |
-| **24521798** | Trần Minh Toàn | [Profile](https://github.com/) |
+| **24521798** | Trần Minh Toàn | [MinhTonn](https://github.com/MinhTonn) |
 
 ---
 
