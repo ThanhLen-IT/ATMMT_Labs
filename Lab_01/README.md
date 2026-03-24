@@ -24,11 +24,11 @@ Bài lab này giúp nhóm sinh viên làm quen và hiểu rõ cơ chế hoạt �
 
 Kho mã nguồn này chứa các chương trình giải quyết 7 nhiệm vụ thực hành của Lab 01, được chia thành các thư mục tương ứng:
 
-* **`Task2.1_Caesar/`**: Chương trình mã hóa, giải mã và tấn công Brute-force thuật toán Caesar Cipher.
-* **`Task2.2_Task2.3_Monoalphabetic/`**: Phân tích tần suất (Frequency Analysis) thủ công và chương trình hỗ trợ giải mã tự động thuật toán Mono-alphabetic Substitution Cipher.
-* **`Task2.4_Playfair/`**: Chương trình mã hóa và giải mã Playfair Cipher sử dụng ma trận khóa 5x5.
-* **`Task2.5_Task2.6_Vigenere/`**: Chương trình mã hóa, giải mã Vigenère Cipher và công cụ phá mã Vigenère tự động (Ciphertext-only attack) dựa trên IC và Chi-squared.
-* **`Task2.7_Extended/`**: Cài đặt thuật toán mật mã cổ điển mở rộng tự chọn (Thuật toán: Rail Fence Cipher).
+* **`Cau01/`**: Chương trình mã hóa, giải mã và tấn công Brute-force thuật toán Caesar Cipher.
+* **`Cau02, Cau03/`**: Phân tích tần suất (Frequency Analysis) thủ công và chương trình hỗ trợ giải mã tự động thuật toán Mono-alphabetic Substitution Cipher.
+* **`Cau04/`**: Chương trình mã hóa và giải mã Playfair Cipher sử dụng ma trận khóa 5x5.
+* **`Cau05, Cau06/`**: Chương trình mã hóa, giải mã Vigenère Cipher và công cụ phá mã Vigenère tự động (Ciphertext-only attack) dựa trên IC và Chi-squared.
+* **`Cau07/`**: Cài đặt thuật toán mật mã cổ điển mở rộng tự chọn (Thuật toán: Rail Fence Cipher).
 
 *(Lưu ý: Các file dữ liệu bản rõ `plaintext.txt` và bản mã `ciphertext.txt` được đính kèm bên trong từng thư mục tương ứng).*
 
